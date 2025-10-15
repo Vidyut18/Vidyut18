@@ -1,6 +1,6 @@
 ## Hey there! 👋 It’s me, Vidyut.
 
----
+
 
 ## 👨‍💻 About Me  
 
@@ -27,6 +27,7 @@ I'm always excited to collaborate on innovative projects, discuss cutting-edge t
 
 - 💼 **Professional**: [LinkedIn](https://www.linkedin.com/in/vidyut-b-93633827a/)
 - 📧 **Email**: [vidyutbadrinath@gmail.com](mailto:vidyutbadrinath@gmail.com)
+
 
 
 
